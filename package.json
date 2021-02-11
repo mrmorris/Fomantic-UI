@@ -23,11 +23,6 @@
     "type": "git",
     "url": "https://github.com/fomantic/Fomantic-UI.git"
   },
-  "scripts": {
-    "install": "gulp install",
-    "build": "gulp build",
-    "changelog": "auto-changelog -p"
-  },
   "dependencies": {
     "jquery": "^3.4.0",
     "@octokit/rest": "^16.16.0",
